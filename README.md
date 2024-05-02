@@ -1,4 +1,4 @@
-# Cramer's Rule
+# Cramer's Rule Calculator
 
 A Python Calculator to solve square matrices of linear equations using Cramer's Rule
 
